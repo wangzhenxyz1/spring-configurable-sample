@@ -17,16 +17,6 @@
         <spring.version>4.3.5.RELEASE</spring.version>
 	</properties>
 
-	<developers>
-		<developer>
-			<id>kclark</id>
-			<name>Kenyatta Clark</name>
-			<email>kenyatta.clark@brightdome.com</email>
-			<url>http://www.brightdome.com</url>
-			<organization>Bright Dome L.L.C.</organization>
-			<organizationUrl>http://www.brightdome.com</organizationUrl>
-		</developer>
-	</developers>
 
 	<licenses>
 		<license>
