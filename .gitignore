@@ -1,0 +1,7 @@
+# Eclipse ignored
+.project
+.classpath
+.settings
+target
+*.iml
+.idea
